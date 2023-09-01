@@ -1,4 +1,4 @@
-from flask_app.controllers import 
+from flask_app.controllers import admin_control
 from flask_app import app
 
 
